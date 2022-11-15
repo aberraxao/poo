@@ -1,7 +1,10 @@
 1 Branca de Neve
 2 Rainha Malvada
 3 Principe Encantado
-4 Mestre
+4 Atchim
 5 Dunga
 6 Zangado
-7 Atchim
+7 Mestre
+8 Feliz
+9 Dengoso
+10 Soneca
